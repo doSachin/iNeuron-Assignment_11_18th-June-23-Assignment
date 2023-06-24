@@ -1,0 +1,5 @@
+2023-06-24 22:51:05,438:ERROR:root:ZeroDivisionError - division by zero
+Traceback (most recent call last):
+  File "C:\Users\sachi\AppData\Local\Temp\ipykernel_24636\412843147.py", line 14, in <module>
+    result = num_1/num_2
+ZeroDivisionError: division by zero
